@@ -6,4 +6,4 @@ __source that I used :)__
 - __[Youtube](https://www.youtube.com/watch?v=pG0QZ7OddX4&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=27)__ - Aladdin Persson
 - __[WGAN-GP Paper](https://arxiv.org/abs/1704.00028)__ - Improved Training of Wasserstein GANs
 
-![Pytorch Logo](./openmined-pytorch)
+![Pytorch Logo](./openmined-pytorch.png)
